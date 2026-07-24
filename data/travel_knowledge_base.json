@@ -1,0 +1,372 @@
+[
+  {
+    "destination": "Goa, India",
+    "country": "India",
+    "best_time_to_visit": "November to February (cool, dry season)",
+    "currency": "Indian Rupee (INR)",
+    "language": "Konkani, English, Hindi",
+    "overview": "Goa is a coastal state on India's west coast known for its beaches, Portuguese colonial heritage, vibrant nightlife, and laid-back beach-shack culture. It blends North Goa's party scene with South Goa's quieter, upscale resorts.",
+    "attractions": [
+      {"name": "Baga Beach", "category": "Beach", "description": "Popular beach in North Goa known for water sports, beach shacks, and nightlife.", "estimated_cost_per_person": 500, "duration_hours": 4},
+      {"name": "Fort Aguada", "category": "Historical", "description": "17th-century Portuguese fort with a lighthouse and panoramic sea views.", "estimated_cost_per_person": 100, "duration_hours": 2},
+      {"name": "Basilica of Bom Jesus", "category": "Religious/Heritage", "description": "UNESCO World Heritage church in Old Goa holding the relics of St. Francis Xavier.", "estimated_cost_per_person": 0, "duration_hours": 1.5},
+      {"name": "Dudhsagar Waterfalls", "category": "Nature", "description": "One of India's tallest waterfalls, reachable by jeep safari through Mollem National Park.", "estimated_cost_per_person": 1500, "duration_hours": 5},
+      {"name": "Anjuna Flea Market", "category": "Shopping", "description": "Famous Wednesday flea market for clothes, jewelry, and souvenirs.", "estimated_cost_per_person": 700, "duration_hours": 3}
+    ],
+    "accommodations": [
+      {"name": "Beach hostel/dorm", "type": "Budget", "price_range_per_night": "INR 600-1200", "area": "Anjuna/Calangute", "rating": 3.8},
+      {"name": "3-star beach resort", "type": "Mid-range", "price_range_per_night": "INR 3500-6000", "area": "Candolim/Baga", "rating": 4.2},
+      {"name": "5-star luxury resort", "type": "Luxury", "price_range_per_night": "INR 12000-25000", "area": "South Goa (Cavelossim)", "rating": 4.7}
+    ],
+    "food": [
+      {"name": "Fish Thali", "type": "Local", "avg_cost_per_person": 250, "description": "Traditional Goan plate with rice, fish curry, and sides."},
+      {"name": "Beach shack seafood", "type": "Seafood", "avg_cost_per_person": 600, "description": "Grilled prawns, calamari, and kingfish at beachside shacks."},
+      {"name": "Bebinca", "type": "Dessert", "avg_cost_per_person": 150, "description": "Traditional Goan layered dessert."}
+    ],
+    "transport": [
+      {"mode": "Scooter/bike rental", "avg_cost_per_day": 400, "description": "Most popular way to explore Goa independently."},
+      {"mode": "Local taxi/Uber", "avg_cost_per_day": 1200, "description": "Convenient but pricier than self-drive."}
+    ],
+    "travel_tips": [
+      "Carry an international or Indian driving license if renting a two-wheeler.",
+      "North Goa is livelier and nightlife-focused; South Goa is calmer and more upscale.",
+      "Book beach shacks and resorts in advance during the December-January peak season.",
+      "Carry cash for flea markets and small shacks, though UPI is widely accepted now.",
+      "Respect local dress codes at churches and temples."
+    ],
+    "average_daily_budget": {"budget": 2000, "mid_range": 5000, "luxury": 15000, "currency": "INR"}
+  },
+  {
+    "destination": "Manali, India",
+    "country": "India",
+    "best_time_to_visit": "March to June, and October to February for snow",
+    "currency": "Indian Rupee (INR)",
+    "language": "Hindi, Pahari, English",
+    "overview": "Manali is a Himalayan hill town in Himachal Pradesh, popular for snow-capped mountains, adventure sports, and as a gateway to Solang Valley, Rohtang Pass, and the Spiti Valley.",
+    "attractions": [
+      {"name": "Solang Valley", "category": "Adventure/Nature", "description": "Valley offering paragliding, zorbing, and skiing (in winter).", "estimated_cost_per_person": 1500, "duration_hours": 5},
+      {"name": "Rohtang Pass", "category": "Nature", "description": "High mountain pass with snow views, accessible by road permit in season.", "estimated_cost_per_person": 2000, "duration_hours": 6},
+      {"name": "Hadimba Temple", "category": "Religious/Heritage", "description": "Ancient wooden temple set inside a cedar forest.", "estimated_cost_per_person": 0, "duration_hours": 1},
+      {"name": "Old Manali", "category": "Cafe/Culture", "description": "Bohemian lanes with cafes, live music, and craft shops along the river.", "estimated_cost_per_person": 500, "duration_hours": 3},
+      {"name": "Jogini Waterfall Trek", "category": "Trekking", "description": "Moderate trek through Vashisht village to a scenic waterfall.", "estimated_cost_per_person": 200, "duration_hours": 4}
+    ],
+    "accommodations": [
+      {"name": "Backpacker hostel", "type": "Budget", "price_range_per_night": "INR 500-1000", "area": "Old Manali", "rating": 4.0},
+      {"name": "Riverside cottage", "type": "Mid-range", "price_range_per_night": "INR 2500-4500", "area": "Manali town/Vashisht", "rating": 4.3},
+      {"name": "Mountain resort/cottage", "type": "Luxury", "price_range_per_night": "INR 8000-18000", "area": "Naggar/Solang Road", "rating": 4.6}
+    ],
+    "food": [
+      {"name": "Himachali Thali", "type": "Local", "avg_cost_per_person": 300, "description": "Includes siddu, rajma-madra, and local lentils."},
+      {"name": "Momos and thukpa", "type": "Tibetan", "avg_cost_per_person": 200, "description": "Popular Tibetan-influenced street food in Old Manali."},
+      {"name": "Cafe brunch", "type": "Cafe", "avg_cost_per_person": 450, "description": "Wood-fired pizzas and pancakes in Old Manali's riverside cafes."}
+    ],
+    "transport": [
+      {"mode": "Shared taxi/local bus", "avg_cost_per_day": 500, "description": "Economical way to reach nearby valleys."},
+      {"mode": "Private cab for sightseeing", "avg_cost_per_day": 2500, "description": "Covers Solang Valley, Rohtang Pass, and nearby points in a day."}
+    ],
+    "travel_tips": [
+      "Carry warm layers even in summer, especially for Rohtang Pass and Solang Valley.",
+      "Rohtang Pass may need an online permit and can close due to weather.",
+      "Old Manali offers better cafe and nightlife options than the main town.",
+      "Altitude sickness is possible at high passes; acclimatize and stay hydrated.",
+      "Network connectivity can be patchy beyond the main town."
+    ],
+    "average_daily_budget": {"budget": 1800, "mid_range": 4500, "luxury": 12000, "currency": "INR"}
+  },
+  {
+    "destination": "Munnar & Alleppey, Kerala, India",
+    "country": "India",
+    "best_time_to_visit": "September to March",
+    "currency": "Indian Rupee (INR)",
+    "language": "Malayalam, English",
+    "overview": "Munnar offers misty tea-plantation hills in the Western Ghats, while Alleppey (Alappuzha) is famed for its backwaters and houseboat cruises through palm-fringed canals.",
+    "attractions": [
+      {"name": "Tea Museum & Plantations, Munnar", "category": "Nature/Culture", "description": "Rolling tea estates with a museum on tea processing history.", "estimated_cost_per_person": 200, "duration_hours": 2},
+      {"name": "Eravikulam National Park", "category": "Wildlife/Nature", "description": "Home to the endangered Nilgiri Tahr, with grassy hill trails.", "estimated_cost_per_person": 150, "duration_hours": 3},
+      {"name": "Alleppey Houseboat Backwater Cruise", "category": "Nature/Leisure", "description": "Overnight or day cruise through Kerala's backwaters on a traditional houseboat.", "estimated_cost_per_person": 4000, "duration_hours": 20},
+      {"name": "Kumarakom Bird Sanctuary", "category": "Wildlife", "description": "Wetland sanctuary near Vembanad Lake, good for birdwatching.", "estimated_cost_per_person": 100, "duration_hours": 2},
+      {"name": "Top Station Viewpoint", "category": "Nature", "description": "Scenic viewpoint near Munnar overlooking the Western Ghats valley.", "estimated_cost_per_person": 50, "duration_hours": 1.5}
+    ],
+    "accommodations": [
+      {"name": "Homestay", "type": "Budget", "price_range_per_night": "INR 1200-2500", "area": "Munnar town", "rating": 4.1},
+      {"name": "Houseboat (shared cabin)", "type": "Mid-range", "price_range_per_night": "INR 5000-8000", "area": "Alleppey backwaters", "rating": 4.4},
+      {"name": "Plantation resort/private houseboat", "type": "Luxury", "price_range_per_night": "INR 12000-20000", "area": "Munnar hills / Alleppey", "rating": 4.7}
+    ],
+    "food": [
+      {"name": "Kerala Sadya", "type": "Local", "avg_cost_per_person": 300, "description": "Traditional vegetarian feast served on a banana leaf."},
+      {"name": "Karimeen Pollichathu", "type": "Seafood", "avg_cost_per_person": 450, "description": "Pearl spot fish marinated and grilled in banana leaf."},
+      {"name": "Appam with stew", "type": "Local breakfast", "avg_cost_per_person": 150, "description": "Fermented rice pancake served with vegetable or chicken stew."}
+    ],
+    "transport": [
+      {"mode": "Private cab between towns", "avg_cost_per_day": 3000, "description": "Convenient for the hilly Munnar roads and inter-city transfers."},
+      {"mode": "KSRTC bus", "avg_cost_per_day": 300, "description": "Budget-friendly option connecting major Kerala towns."}
+    ],
+    "travel_tips": [
+      "Book houseboats directly with operators or verified portals to avoid overpricing.",
+      "Carry light woolens for early mornings in Munnar's hill climate.",
+      "Roads from Munnar to Alleppey are winding; plan ~4-5 hours travel time.",
+      "Try to time the backwater cruise for sunset views.",
+      "Mosquito repellent is recommended for evenings near the backwaters."
+    ],
+    "average_daily_budget": {"budget": 2200, "mid_range": 6000, "luxury": 15000, "currency": "INR"}
+  },
+  {
+    "destination": "Jaipur, India",
+    "country": "India",
+    "best_time_to_visit": "October to March",
+    "currency": "Indian Rupee (INR)",
+    "language": "Hindi, Rajasthani, English",
+    "overview": "Jaipur, the 'Pink City', is Rajasthan's capital known for its majestic forts, palaces, vibrant bazaars, and royal Rajput heritage.",
+    "attractions": [
+      {"name": "Amber Fort", "category": "Historical", "description": "Hilltop fort-palace with mirrored halls and an elephant gate, overlooking Maota Lake.", "estimated_cost_per_person": 200, "duration_hours": 3},
+      {"name": "Hawa Mahal", "category": "Historical", "description": "Iconic five-story 'Palace of Winds' with intricately latticed windows.", "estimated_cost_per_person": 50, "duration_hours": 1},
+      {"name": "City Palace", "category": "Historical", "description": "Royal residence complex with museums of royal artifacts and costumes.", "estimated_cost_per_person": 300, "duration_hours": 2},
+      {"name": "Jal Mahal", "category": "Architecture", "description": "Palace appearing to float in the middle of Man Sagar Lake.", "estimated_cost_per_person": 0, "duration_hours": 0.5},
+      {"name": "Johari Bazaar", "category": "Shopping", "description": "Famous market for jewelry, textiles, and traditional Rajasthani handicrafts.", "estimated_cost_per_person": 1000, "duration_hours": 2}
+    ],
+    "accommodations": [
+      {"name": "Backpacker guesthouse", "type": "Budget", "price_range_per_night": "INR 700-1500", "area": "Near Hawa Mahal/Bani Park", "rating": 3.9},
+      {"name": "Heritage haveli hotel", "type": "Mid-range", "price_range_per_night": "INR 3000-6000", "area": "Old City", "rating": 4.3},
+      {"name": "Heritage palace hotel", "type": "Luxury", "price_range_per_night": "INR 15000-35000", "area": "Civil Lines/Amber Road", "rating": 4.8}
+    ],
+    "food": [
+      {"name": "Dal Baati Churma", "type": "Local", "avg_cost_per_person": 250, "description": "Classic Rajasthani combo of lentils, baked wheat balls, and sweet crumble."},
+      {"name": "Laal Maas", "type": "Local non-veg", "avg_cost_per_person": 400, "description": "Fiery Rajasthani mutton curry."},
+      {"name": "Pyaaz Kachori", "type": "Street food", "avg_cost_per_person": 80, "description": "Crispy onion-stuffed pastry, a Jaipur breakfast staple."}
+    ],
+    "transport": [
+      {"mode": "Auto-rickshaw/Ola", "avg_cost_per_day": 600, "description": "Easy way to get around the city and Old City lanes."},
+      {"mode": "Full-day cab for forts", "avg_cost_per_day": 2200, "description": "Useful for covering Amber Fort, Nahargarh, and Jaigarh in one day."}
+    ],
+    "travel_tips": [
+      "Start at Amber Fort early to avoid both crowds and the midday heat.",
+      "Bargaining is expected at bazaars; start at 40-50% of the quoted price.",
+      "Combine Nahargarh Fort visit with sunset for the best city views.",
+      "Modest clothing is advisable when visiting temples and the City Palace.",
+      "Summer afternoons (April-June) can exceed 40°C; plan indoor activities then."
+    ],
+    "average_daily_budget": {"budget": 1800, "mid_range": 4500, "luxury": 14000, "currency": "INR"}
+  },
+  {
+    "destination": "Paris, France",
+    "country": "France",
+    "best_time_to_visit": "April to June, and September to October",
+    "currency": "Euro (EUR)",
+    "language": "French",
+    "overview": "Paris, the 'City of Light', is famed for its art, architecture, fashion, and cuisine, anchored by icons like the Eiffel Tower, the Louvre, and the Seine.",
+    "attractions": [
+      {"name": "Eiffel Tower", "category": "Landmark", "description": "Iconic iron lattice tower with observation decks offering panoramic city views.", "estimated_cost_per_person": 28, "duration_hours": 2},
+      {"name": "Louvre Museum", "category": "Museum", "description": "World's largest art museum, home to the Mona Lisa and Venus de Milo.", "estimated_cost_per_person": 22, "duration_hours": 4},
+      {"name": "Notre-Dame Cathedral area", "category": "Historical", "description": "Gothic cathedral on Île de la Cité, still under post-fire restoration with viewable exteriors.", "estimated_cost_per_person": 0, "duration_hours": 1},
+      {"name": "Montmartre & Sacré-Cœur", "category": "Culture", "description": "Artsy hilltop district with the basilica, street artists, and panoramic views.", "estimated_cost_per_person": 0, "duration_hours": 3},
+      {"name": "Seine River Cruise", "category": "Leisure", "description": "Boat cruise past major Parisian landmarks along the river.", "estimated_cost_per_person": 18, "duration_hours": 1.5}
+    ],
+    "accommodations": [
+      {"name": "Hostel dorm", "type": "Budget", "price_range_per_night": "EUR 35-60", "area": "Le Marais/Gare du Nord", "rating": 4.0},
+      {"name": "3-star boutique hotel", "type": "Mid-range", "price_range_per_night": "EUR 120-200", "area": "Latin Quarter/Montmartre", "rating": 4.3},
+      {"name": "5-star luxury hotel", "type": "Luxury", "price_range_per_night": "EUR 450-900", "area": "Champs-Élysées/Saint-Germain", "rating": 4.8}
+    ],
+    "food": [
+      {"name": "Croissant & cafe breakfast", "type": "Bakery", "avg_cost_per_person": 8, "description": "Classic French breakfast at a local boulangerie."},
+      {"name": "Steak-frites bistro dinner", "type": "French", "avg_cost_per_person": 35, "description": "Traditional bistro meal of steak and fries."},
+      {"name": "Cheese and wine tasting", "type": "Gourmet", "avg_cost_per_person": 40, "description": "Curated tasting of regional French cheeses and wines."}
+    ],
+    "transport": [
+      {"mode": "Metro day pass", "avg_cost_per_day": 8, "description": "Covers unlimited rides on the extensive Paris metro network."},
+      {"mode": "Taxi/Uber", "avg_cost_per_day": 35, "description": "Faster but pricier alternative to the metro."}
+    ],
+    "travel_tips": [
+      "Book skip-the-line tickets for the Louvre and Eiffel Tower in advance.",
+      "The Paris Museum Pass can save money if visiting 3+ museums.",
+      "Many museums are closed on Mondays or Tuesdays; check before planning.",
+      "Tipping is not mandatory in France as service is usually included.",
+      "Learn a few basic French phrases; it's appreciated by locals."
+    ],
+    "average_daily_budget": {"budget": 70, "mid_range": 180, "luxury": 500, "currency": "EUR"}
+  },
+  {
+    "destination": "Bangkok, Thailand",
+    "country": "Thailand",
+    "best_time_to_visit": "November to February (cool, dry season)",
+    "currency": "Thai Baht (THB)",
+    "language": "Thai",
+    "overview": "Bangkok is Thailand's bustling capital, blending ornate temples and royal palaces with vibrant street markets, modern malls, and a renowned street-food scene.",
+    "attractions": [
+      {"name": "Grand Palace & Wat Phra Kaew", "category": "Historical/Religious", "description": "Former royal residence complex housing the revered Emerald Buddha temple.", "estimated_cost_per_person": 500, "duration_hours": 3},
+      {"name": "Wat Arun (Temple of Dawn)", "category": "Religious", "description": "Riverside temple famous for its porcelain-decorated spire, best seen at sunset.", "estimated_cost_per_person": 100, "duration_hours": 1.5},
+      {"name": "Chatuchak Weekend Market", "category": "Shopping", "description": "One of the world's largest weekend markets with thousands of stalls.", "estimated_cost_per_person": 1000, "duration_hours": 4},
+      {"name": "Chao Phraya River Cruise", "category": "Leisure", "description": "Boat ride past riverside temples, palaces, and modern skyline.", "estimated_cost_per_person": 600, "duration_hours": 2},
+      {"name": "Khao San Road", "category": "Nightlife/Culture", "description": "Famous backpacker street with food stalls, bars, and street performers.", "estimated_cost_per_person": 500, "duration_hours": 3}
+    ],
+    "accommodations": [
+      {"name": "Backpacker hostel", "type": "Budget", "price_range_per_night": "THB 300-700", "area": "Khao San Road/Banglamphu", "rating": 4.0},
+      {"name": "3-star hotel", "type": "Mid-range", "price_range_per_night": "THB 1800-3500", "area": "Sukhumvit/Silom", "rating": 4.3},
+      {"name": "5-star riverside hotel", "type": "Luxury", "price_range_per_night": "THB 8000-18000", "area": "Riverside/Chao Phraya", "rating": 4.7}
+    ],
+    "food": [
+      {"name": "Pad Thai street stall", "type": "Street food", "avg_cost_per_person": 60, "description": "Iconic stir-fried noodle dish from street vendors."},
+      {"name": "Tom Yum Goong", "type": "Local", "avg_cost_per_person": 150, "description": "Spicy and sour Thai shrimp soup."},
+      {"name": "Mango sticky rice", "type": "Dessert", "avg_cost_per_person": 60, "description": "Sweet coconut sticky rice with fresh mango."}
+    ],
+    "transport": [
+      {"mode": "BTS Skytrain/MRT", "avg_cost_per_day": 150, "description": "Efficient way to avoid Bangkok's notorious traffic."},
+      {"mode": "Tuk-tuk/Grab", "avg_cost_per_day": 400, "description": "Convenient for short hops, though Grab is more fairly metered."}
+    ],
+    "travel_tips": [
+      "Dress modestly (covered shoulders/knees) when visiting temples.",
+      "Agree on tuk-tuk fares before the ride starts.",
+      "Avoid drinking tap water; bottled water is cheap and widely available.",
+      "Songkran (mid-April) brings citywide water festivities but also higher prices.",
+      "Use the BTS/MRT during rush hour to skip traffic jams entirely."
+    ],
+    "average_daily_budget": {"budget": 1200, "mid_range": 3500, "luxury": 9000, "currency": "THB"}
+  },
+  {
+    "destination": "Bali, Indonesia",
+    "country": "Indonesia",
+    "best_time_to_visit": "April to October (dry season)",
+    "currency": "Indonesian Rupiah (IDR)",
+    "language": "Indonesian, Balinese",
+    "overview": "Bali is an Indonesian island known for lush rice terraces, Hindu temples, surf beaches, and a wellness and digital-nomad culture centered around Ubud and Canggu.",
+    "attractions": [
+      {"name": "Tegallalang Rice Terraces", "category": "Nature", "description": "Iconic stepped green rice terraces near Ubud, popular for photos and short walks.", "estimated_cost_per_person": 25000, "duration_hours": 2},
+      {"name": "Uluwatu Temple", "category": "Religious/Scenic", "description": "Cliffside temple with a sunset Kecak fire dance performance.", "estimated_cost_per_person": 50000, "duration_hours": 3},
+      {"name": "Tanah Lot Temple", "category": "Religious/Scenic", "description": "Sea temple perched on a rock formation, iconic at sunset.", "estimated_cost_per_person": 60000, "duration_hours": 2},
+      {"name": "Mount Batur Sunrise Trek", "category": "Adventure/Nature", "description": "Pre-dawn volcano hike rewarded with sunrise views over Bali.", "estimated_cost_per_person": 350000, "duration_hours": 6},
+      {"name": "Seminyak/Canggu Beach Clubs", "category": "Leisure/Nightlife", "description": "Trendy beachfront clubs with pools, DJs, and sunset views.", "estimated_cost_per_person": 200000, "duration_hours": 4}
+    ],
+    "accommodations": [
+      {"name": "Guesthouse/homestay", "type": "Budget", "price_range_per_night": "IDR 150000-300000", "area": "Ubud/Canggu", "rating": 4.1},
+      {"name": "Boutique villa with pool", "type": "Mid-range", "price_range_per_night": "IDR 600000-1200000", "area": "Seminyak/Canggu", "rating": 4.5},
+      {"name": "Private luxury villa resort", "type": "Luxury", "price_range_per_night": "IDR 2500000-6000000", "area": "Uluwatu/Nusa Dua", "rating": 4.8}
+    ],
+    "food": [
+      {"name": "Nasi Goreng", "type": "Local", "avg_cost_per_person": 35000, "description": "Indonesian fried rice with egg, vegetables, and choice of protein."},
+      {"name": "Babi Guling", "type": "Local", "avg_cost_per_person": 50000, "description": "Traditional Balinese roasted suckling pig."},
+      {"name": "Smoothie bowl cafe", "type": "Healthy/Cafe", "avg_cost_per_person": 60000, "description": "Popular among the wellness-cafe scene in Ubud and Canggu."}
+    ],
+    "transport": [
+      {"mode": "Scooter rental", "avg_cost_per_day": 70000, "description": "Most flexible way to explore the island, though traffic can be hectic."},
+      {"mode": "Private driver/Grab car", "avg_cost_per_day": 400000, "description": "Comfortable option for families or longer day trips."}
+    ],
+    "travel_tips": [
+      "Carry a sarong; it's required (or rentable) at most temples.",
+      "Negotiate scooter rental rates for multi-day rentals.",
+      "Ubud is best for culture/wellness; Canggu/Seminyak for beach and nightlife.",
+      "Avoid driving in Bali without an international driving permit due to strict checks.",
+      "Rice terraces and temples often request a small voluntary donation."
+    ],
+    "average_daily_budget": {"budget": 400000, "mid_range": 1200000, "luxury": 4000000, "currency": "IDR"}
+  },
+  {
+    "destination": "Tokyo, Japan",
+    "country": "Japan",
+    "best_time_to_visit": "March to May (cherry blossoms), September to November (autumn colors)",
+    "currency": "Japanese Yen (JPY)",
+    "language": "Japanese",
+    "overview": "Tokyo is Japan's hyper-modern capital, mixing futuristic skyscrapers and neon districts with traditional temples, gardens, and an incomparable food culture.",
+    "attractions": [
+      {"name": "Senso-ji Temple, Asakusa", "category": "Religious/Historical", "description": "Tokyo's oldest temple with the iconic Kaminarimon gate and Nakamise shopping street.", "estimated_cost_per_person": 0, "duration_hours": 2},
+      {"name": "Shibuya Crossing & district", "category": "Culture", "description": "World-famous scramble crossing surrounded by shops, cafes, and neon billboards.", "estimated_cost_per_person": 0, "duration_hours": 2},
+      {"name": "TeamLab Planets/Borderless", "category": "Art/Tech", "description": "Immersive digital art museum with interactive light installations.", "estimated_cost_per_person": 3800, "duration_hours": 3},
+      {"name": "Tsukiji Outer Market", "category": "Food/Culture", "description": "Bustling market famous for fresh sushi breakfast and street snacks.", "estimated_cost_per_person": 2500, "duration_hours": 2},
+      {"name": "Shinjuku Gyoen National Garden", "category": "Nature", "description": "Spacious landscaped garden, especially scenic during cherry blossom and autumn seasons.", "estimated_cost_per_person": 500, "duration_hours": 2}
+    ],
+    "accommodations": [
+      {"name": "Capsule hotel/hostel", "type": "Budget", "price_range_per_night": "JPY 3000-6000", "area": "Shinjuku/Asakusa", "rating": 4.0},
+      {"name": "Business hotel", "type": "Mid-range", "price_range_per_night": "JPY 10000-18000", "area": "Shibuya/Ueno", "rating": 4.3},
+      {"name": "Luxury hotel with skyline view", "type": "Luxury", "price_range_per_night": "JPY 45000-90000", "area": "Roppongi/Ginza", "rating": 4.8}
+    ],
+    "food": [
+      {"name": "Conveyor-belt sushi", "type": "Local", "avg_cost_per_person": 1500, "description": "Affordable and fun way to sample fresh sushi varieties."},
+      {"name": "Ramen shop", "type": "Local", "avg_cost_per_person": 1000, "description": "Rich tonkotsu, shoyu, or miso ramen bowls from specialty shops."},
+      {"name": "Izakaya dinner", "type": "Local/Bar food", "avg_cost_per_person": 3500, "description": "Casual Japanese pub-style dining with small plates and drinks."}
+    ],
+    "transport": [
+      {"mode": "Suica/Pasmo IC card on metro", "avg_cost_per_day": 1000, "description": "Tap-and-go card covering trains, subways, and buses across the city."},
+      {"mode": "JR day pass (for wider exploration)", "avg_cost_per_day": 1500, "description": "Useful for day trips just outside central Tokyo."}
+    ],
+    "travel_tips": [
+      "Get a Suica or Pasmo IC card immediately on arrival for seamless transit.",
+      "Avoid eating or talking loudly on trains; it's considered impolite.",
+      "Cash is still useful; not every small shop accepts cards.",
+      "Book popular attractions like TeamLab well in advance online.",
+      "Pocket Wi-Fi or an eSIM is recommended for easy navigation."
+    ],
+    "average_daily_budget": {"budget": 6000, "mid_range": 15000, "luxury": 40000, "currency": "JPY"}
+  },
+  {
+    "destination": "Rome, Italy",
+    "country": "Italy",
+    "best_time_to_visit": "April to June, and September to October",
+    "currency": "Euro (EUR)",
+    "language": "Italian",
+    "overview": "Rome, Italy's ancient capital, is an open-air museum of Roman ruins, Renaissance art, and Vatican treasures, paired with classic trattoria dining and piazza culture.",
+    "attractions": [
+      {"name": "Colosseum & Roman Forum", "category": "Historical", "description": "Iconic ancient amphitheater and adjoining ruins of the Roman political center.", "estimated_cost_per_person": 18, "duration_hours": 3},
+      {"name": "Vatican Museums & Sistine Chapel", "category": "Museum/Religious", "description": "Vast art collection culminating in Michelangelo's Sistine Chapel ceiling.", "estimated_cost_per_person": 21, "duration_hours": 4},
+      {"name": "Trevi Fountain", "category": "Landmark", "description": "Baroque fountain where tossing a coin is said to ensure a return to Rome.", "estimated_cost_per_person": 0, "duration_hours": 0.5},
+      {"name": "Pantheon", "category": "Historical", "description": "Remarkably preserved Roman temple with a famous oculus dome.", "estimated_cost_per_person": 5, "duration_hours": 1},
+      {"name": "Trastevere neighborhood", "category": "Culture/Food", "description": "Charming cobblestone district known for trattorias and nightlife.", "estimated_cost_per_person": 0, "duration_hours": 3}
+    ],
+    "accommodations": [
+      {"name": "Hostel dorm", "type": "Budget", "price_range_per_night": "EUR 30-55", "area": "Termini/San Lorenzo", "rating": 3.9},
+      {"name": "3-star hotel", "type": "Mid-range", "price_range_per_night": "EUR 100-180", "area": "Trastevere/Monti", "rating": 4.3},
+      {"name": "5-star hotel near Spanish Steps", "type": "Luxury", "price_range_per_night": "EUR 400-800", "area": "Spanish Steps/Via Veneto", "rating": 4.7}
+    ],
+    "food": [
+      {"name": "Cacio e pepe pasta", "type": "Local", "avg_cost_per_person": 15, "description": "Classic Roman pasta with pecorino cheese and black pepper."},
+      {"name": "Roman-style pizza al taglio", "type": "Street food", "avg_cost_per_person": 8, "description": "Thin, crispy pizza sold by weight at local bakeries."},
+      {"name": "Gelato", "type": "Dessert", "avg_cost_per_person": 5, "description": "Artisanal Italian ice cream, best from gelaterias away from major landmarks."}
+    ],
+    "transport": [
+      {"mode": "Metro/bus day pass", "avg_cost_per_day": 7, "description": "Covers the compact metro and bus network."},
+      {"mode": "Walking", "avg_cost_per_day": 0, "description": "Most central sights are within walking distance of each other."}
+    ],
+    "travel_tips": [
+      "Book Colosseum and Vatican tickets online in advance to skip long lines.",
+      "Dress modestly when visiting St. Peter's Basilica and the Vatican Museums.",
+      "Many restaurants near major sights are tourist traps; walk a few streets further for better value.",
+      "Validate paper transit tickets before boarding to avoid fines.",
+      "August can be very hot and many local businesses close for summer holidays."
+    ],
+    "average_daily_budget": {"budget": 60, "mid_range": 150, "luxury": 450, "currency": "EUR"}
+  },
+  {
+    "destination": "Singapore",
+    "country": "Singapore",
+    "best_time_to_visit": "February to April (slightly less rain)",
+    "currency": "Singapore Dollar (SGD)",
+    "language": "English, Mandarin, Malay, Tamil",
+    "overview": "Singapore is a compact, ultra-modern city-state known for its futuristic gardens, diverse food culture, cleanliness, and efficient public transport, blending Chinese, Malay, Indian, and colonial influences.",
+    "attractions": [
+      {"name": "Gardens by the Bay & Supertree Grove", "category": "Nature/Tech", "description": "Futuristic park with the Supertree light show and Cloud Forest dome.", "estimated_cost_per_person": 28, "duration_hours": 3},
+      {"name": "Marina Bay Sands SkyPark", "category": "Landmark", "description": "Rooftop infinity pool and observation deck with skyline views.", "estimated_cost_per_person": 26, "duration_hours": 1.5},
+      {"name": "Sentosa Island", "category": "Leisure", "description": "Resort island with beaches, Universal Studios, and adventure activities.", "estimated_cost_per_person": 40, "duration_hours": 6},
+      {"name": "Chinatown & Sri Mariamman Temple", "category": "Culture/Religious", "description": "Historic district blending Chinese heritage shops with an ornate Hindu temple.", "estimated_cost_per_person": 0, "duration_hours": 2},
+      {"name": "Hawker centre food trail (Maxwell/Lau Pa Sat)", "category": "Food", "description": "Iconic open-air food courts serving affordable local dishes.", "estimated_cost_per_person": 20, "duration_hours": 2}
+    ],
+    "accommodations": [
+      {"name": "Hostel/pod hotel", "type": "Budget", "price_range_per_night": "SGD 35-65", "area": "Chinatown/Bugis", "rating": 4.0},
+      {"name": "4-star hotel", "type": "Mid-range", "price_range_per_night": "SGD 150-260", "area": "Orchard Road/Bugis", "rating": 4.4},
+      {"name": "5-star resort", "type": "Luxury", "price_range_per_night": "SGD 500-900", "area": "Marina Bay/Sentosa", "rating": 4.8}
+    ],
+    "food": [
+      {"name": "Hainanese Chicken Rice", "type": "Local", "avg_cost_per_person": 6, "description": "Singapore's beloved hawker dish of poached chicken and fragrant rice."},
+      {"name": "Chili Crab", "type": "Local seafood", "avg_cost_per_person": 35, "description": "Iconic Singaporean dish of crab in a sweet-spicy tomato-chili sauce."},
+      {"name": "Laksa", "type": "Local", "avg_cost_per_person": 7, "description": "Spicy coconut noodle soup, a Peranakan classic."}
+    ],
+    "transport": [
+      {"mode": "MRT/bus with EZ-Link card", "avg_cost_per_day": 10, "description": "Clean, efficient, and covers nearly the whole city."},
+      {"mode": "Grab/taxi", "avg_cost_per_day": 25, "description": "Convenient for late nights or direct point-to-point travel."}
+    ],
+    "travel_tips": [
+      "Tap water is safe to drink directly from the tap.",
+      "Chewing gum import/sale is restricted; littering and jaywalking fines are strictly enforced.",
+      "Hawker centres offer the best value-for-money meals in the city.",
+      "Visit Gardens by the Bay in the evening to catch the light show for free from outside areas.",
+      "Public transport runs cheaply and reliably; renting a car is rarely necessary."
+    ],
+    "average_daily_budget": {"budget": 70, "mid_range": 180, "luxury": 500, "currency": "SGD"}
+  }
+]
